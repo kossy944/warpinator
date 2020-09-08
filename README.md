@@ -10,10 +10,10 @@ ppa:clementlefebvre/grpc
 meson
 gnome-pkg-tools
 
-python3-grpc-tools 
+python3-grpc-tools
 python3-grpcio
 
-python3-zeroconf 
-python3-packaging 
-python3-asn1crypto 
+python3-zeroconf
+python3-packaging
+python3-asn1crypto
 python3-cryptography
